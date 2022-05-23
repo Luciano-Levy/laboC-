@@ -1,0 +1,3 @@
+/home/lucio/FCEN/Algo1/laboC++/04/template-alumnos/cmake-build-debug/CMakeFiles/laboDebugging.dir
+/home/lucio/FCEN/Algo1/laboC++/04/template-alumnos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lucio/FCEN/Algo1/laboC++/04/template-alumnos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

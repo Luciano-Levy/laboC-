@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/laboDebugging.dir/cases.cpp.o CMakeFiles/laboDebugging.dir/ejercicios.cpp.o CMakeFiles/laboDebugging.dir/main.cpp.o -o ../laboDebugging 

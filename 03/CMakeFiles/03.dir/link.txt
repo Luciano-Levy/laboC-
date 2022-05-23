@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/03.dir/src/generador.cpp.o CMakeFiles/03.dir/src/main.cpp.o CMakeFiles/03.dir/src/vectores.cpp.o CMakeFiles/03.dir/src/lecturaEscritura.cpp.o  -o 03 
