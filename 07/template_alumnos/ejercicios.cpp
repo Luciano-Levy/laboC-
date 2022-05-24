@@ -161,7 +161,7 @@ int contarPicos(vector<vector<int> > m){
 	return res;
 }
 
-bool Tinferior(vector<vector<int>> m) {
+bool Tsuperior(vector<vector<int>> m) {
     int j = 0;
     while(j < m[0].size()){
         int i = j+1;
@@ -177,9 +177,9 @@ bool Tinferior(vector<vector<int>> m) {
 
 }
 
-bool Tsuperior(vector<vector<int>> m){
+bool Tinferior(vector<vector<int>> m){
     int j = m[0].size();
-    while(j <= 0){
+    while(j >= 0){
         int i = 0;
         while(i < j){
             if(m[i][j] != 0){

@@ -276,7 +276,7 @@ TEST(Ej6Triangular,test3){
             {1,0,0,0}
     };
     bool res = esTriangular(m);
-    EXPECT_TRUE(res);
+    EXPECT_FALSE(res);
 }
 
 TEST(Ej6Triangular,test4){
@@ -287,7 +287,7 @@ TEST(Ej6Triangular,test4){
             {1,0,0,0}
     };
     bool res = esTriangular(m);
-    EXPECT_TRUE(res);
+    EXPECT_FALSE(res);
 }
 
 TEST(Ej6Triangular,test5){
