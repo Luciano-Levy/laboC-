@@ -17,3 +17,12 @@ bool algunSubconjSuma(vector<int>& vec, int sum);
 
 bool busqueda_binaria(vector<int> &s, int x);
 
+double aproximarC(int n);
+
+void generarDataEj2();
+
+void generarDataEj4();
+
+void generarDataEj5();
+
+void generarDataEj6();
