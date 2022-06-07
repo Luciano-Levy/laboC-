@@ -1,0 +1,3 @@
+/home/lucio/FCEN/Algo1/laboC++/11/template-alumnos/anagramas/src/cmake-build-debug/CMakeFiles/anagramas.dir
+/home/lucio/FCEN/Algo1/laboC++/11/template-alumnos/anagramas/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lucio/FCEN/Algo1/laboC++/11/template-alumnos/anagramas/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
