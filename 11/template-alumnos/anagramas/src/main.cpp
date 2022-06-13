@@ -8,8 +8,8 @@ using namespace std;
 int main(){
     string palabra, palabra2;
     cout << "Ingrese una palabra en ingles con letras en minuscula:" << endl;
-    cin >> palabra;
-
+    //cin >> palabra;
+    palabra = "a";
     ifstream dicci ("ingles.dic");
     vector<string> listaPalabras;
     string word;
@@ -73,10 +73,12 @@ void ordenarString(string &palabra){
     for (int i = 0; i < palabra.size(); ++i) {
         apariciones[posicionEnAlfabeto(palabra[i])]++;
     }
+
     palabra.clear();
+    string x="";
     for (int i = 0; i < apariciones.size(); ++i) {
         for (int j = 1; j <= apariciones[i]; ++j) {
-            palabra.push_back((i+97));
+            x += ((char)(i+97));
         }
     }//O(1*n)
 }
